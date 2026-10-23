@@ -1,0 +1,8 @@
+{
+  "name": "zolo",
+  "description": "Next-generation on-chain trading CTA hero experience with royal violet glow and interactive dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
